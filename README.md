@@ -41,7 +41,7 @@ python feature.py \
 Use evaluate.py to compute cmc and mAP
 
 # Reconstruction
-Use embeddings.h5 file and give as an input to Reconstruction/.ipynb file to reconstruct the images.
+Use embeddings.h5 file and give as an input to .ipynb file to reconstruct the images.
 
 # Citation
 If you use any of the provided code, please cite:
