@@ -19,9 +19,9 @@ Please prepare the dataset as per instruction of [HDRNet](https://github.com/kaj
 
 # Training
 ```
-Please replace the training file of HDRNet with the given training file in this repository and train the model using the following command:
+Please replace the training file and loss file of HDRNet with the given files in this repository and train the model using the following command:
 
-python train_exp3dec.py \
+python train_v2exp3decorig.py or train1exp4dec.py \
           --train_set "dataset_path in csv format" \
           --image_root "dataset_path" \
           --experiment_root "log_path" \
