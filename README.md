@@ -3,7 +3,7 @@ This project aims at re-identify person using auto-encoder network. It is based 
 The code is modified from our previous work [HDRNet](https://github.com/kajal15003/HDRNet.git).
 
 # Architecture
-![Screenshot](architecture.jpg)
+![Screenshot](architecture.png)
 
 
 # Installation
