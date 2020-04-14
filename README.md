@@ -1,5 +1,5 @@
 # Autoencoder-Ensemble-for-Person-Re-ID
-This project aims at re-identify person using deep reconstruction network. It is based on our IEEE-BigMM 2019 paper. 
+This project aims at re-identify person using auto-encoder network. It is based on our IEEE-BigMM 2019 paper. 
 The code is modified from our previous work [HDRNet](https://github.com/kajal15003/HDRNet.git).
 
 # Architecture
